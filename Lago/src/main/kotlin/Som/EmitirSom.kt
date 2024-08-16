@@ -1,0 +1,4 @@
+
+interface EmitirSom {
+    fun barulha();
+}

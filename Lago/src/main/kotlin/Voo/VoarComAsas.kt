@@ -1,5 +1,3 @@
-package VersaoComStrategy
-
 class VoarComAsas : Voar {
 
     override fun executaVoo() {
