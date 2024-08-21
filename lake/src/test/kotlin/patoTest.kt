@@ -3,7 +3,7 @@ import org.junit.jupiter.api.BeforeEach
 import org.example.Pato
 import kotlin.test.assertEquals
 
-class patoTests{
+class PatoTests{
 
     @get:BeforeEach
     var patoJuca = Pato()
