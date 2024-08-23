@@ -1,4 +1,4 @@
-package Raca
+package raca
 
 class Halflings {
 }

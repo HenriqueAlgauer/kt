@@ -1,4 +1,6 @@
-package Raca
+package raca
 
-class Raca {
+open class Raca{
+    var deslocamentoBase: Int ?= 0
+    var idiomaInicial: String ?= null
 }

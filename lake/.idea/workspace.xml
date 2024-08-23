@@ -4,7 +4,16 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="0675c672-5c48-40a5-b973-9b33073c9406" name="Changes" comment="" />
+    <list default="true" id="0675c672-5c48-40a5-b973-9b33073c9406" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/../DD/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../DD/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DD/src/main/kotlin/Raca/Anao.kt" beforeDir="false" afterPath="$PROJECT_DIR$/../DD/src/main/kotlin/Raca/Anao.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DD/src/main/kotlin/Raca/Elfo.kt" beforeDir="false" afterPath="$PROJECT_DIR$/../DD/src/main/kotlin/Raca/Elfo.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DD/src/main/kotlin/Raca/Halflings.kt" beforeDir="false" afterPath="$PROJECT_DIR$/../DD/src/main/kotlin/Raca/Halflings.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DD/src/main/kotlin/Raca/Humano.kt" beforeDir="false" afterPath="$PROJECT_DIR$/../DD/src/main/kotlin/Raca/Humano.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DD/src/main/kotlin/Raca/Raca.kt" beforeDir="false" afterPath="$PROJECT_DIR$/../DD/src/main/kotlin/Raca/Raca.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lagoa/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../lagoa/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lagoa/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../lagoa/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -38,27 +47,27 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Maven.lake [clean].executor": "Run",
-    "Maven.lake [compile].executor": "Run",
-    "Maven.lake [install].executor": "Run",
-    "Maven.lake [validate].executor": "Run",
-    "Maven.lake [verify].executor": "Run",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "git-widget-placeholder": "main",
-    "ignore.virus.scanning.warn.message": "true",
-    "kotlin-language-version-configured": "true",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "settings.editor.selected.configurable": "Errors",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Maven.lake [clean].executor&quot;: &quot;Run&quot;,
+    &quot;Maven.lake [compile].executor&quot;: &quot;Run&quot;,
+    &quot;Maven.lake [install].executor&quot;: &quot;Run&quot;,
+    &quot;Maven.lake [validate].executor&quot;: &quot;Run&quot;,
+    &quot;Maven.lake [verify].executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;Errors&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
@@ -79,6 +88,7 @@
       <workItem from="1723849886937" duration="826000" />
       <workItem from="1723850723368" duration="1498000" />
       <workItem from="1724192401685" duration="1781000" />
+      <workItem from="1724452557503" duration="29000" />
     </task>
     <servers />
   </component>
