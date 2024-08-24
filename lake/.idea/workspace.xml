@@ -4,16 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="0675c672-5c48-40a5-b973-9b33073c9406" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/../DD/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../DD/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../DD/src/main/kotlin/Raca/Anao.kt" beforeDir="false" afterPath="$PROJECT_DIR$/../DD/src/main/kotlin/Raca/Anao.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../DD/src/main/kotlin/Raca/Elfo.kt" beforeDir="false" afterPath="$PROJECT_DIR$/../DD/src/main/kotlin/Raca/Elfo.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../DD/src/main/kotlin/Raca/Halflings.kt" beforeDir="false" afterPath="$PROJECT_DIR$/../DD/src/main/kotlin/Raca/Halflings.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../DD/src/main/kotlin/Raca/Humano.kt" beforeDir="false" afterPath="$PROJECT_DIR$/../DD/src/main/kotlin/Raca/Humano.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../DD/src/main/kotlin/Raca/Raca.kt" beforeDir="false" afterPath="$PROJECT_DIR$/../DD/src/main/kotlin/Raca/Raca.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../lagoa/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../lagoa/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../lagoa/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../lagoa/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="0675c672-5c48-40a5-b973-9b33073c9406" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -89,6 +80,7 @@
       <workItem from="1723850723368" duration="1498000" />
       <workItem from="1724192401685" duration="1781000" />
       <workItem from="1724452557503" duration="29000" />
+      <workItem from="1724452600385" duration="299000" />
     </task>
     <servers />
   </component>

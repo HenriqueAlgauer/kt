@@ -1,4 +1,5 @@
 package raca
 
-class Humano : Raca {
+class Humano : Raca() {
+
 }
