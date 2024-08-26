@@ -14,6 +14,12 @@ open class Personagem(val nome: String , val raca: Raca) {
 
     private val bonusRacial = raca.calculaBonus()
 
+    private fun calcularVida(): Int {
+        val constituicaoTotal = constituicao + (bonusRacial["constituição"] ?: 0)
+        val constituicaoModificador = calcularModificador(constituicaoTotal)
+        return 10 + constituicaoModificador
+    }
+
     private fun calcularModificador(valorTotal: Int): Int {
         return when (valorTotal) {
             1 -> -5
@@ -149,6 +155,7 @@ open class Personagem(val nome: String , val raca: Raca) {
         println("Nome: $nome")
         println("Raça: ${raca::class.simpleName}")
         println("Nível: $nivel")
+        val vida = calcularVida()
         println("Vida: $vida")
 
         val forcaModificador = calcularModificador(forca) + (bonusRacial["forca"] ?: 0)
