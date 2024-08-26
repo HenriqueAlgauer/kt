@@ -1,10 +1,10 @@
 package raca
 import personagem.Personagem
 
-class Anao : Raca(deslocamentoBase = 10, idiomaInicial = "Anão") {
+class GnomoDaFloresta : Raca(deslocamentoBase = 10, idiomaInicial = "gnomo") {
     override fun calculaBonus(): Map<String, Int> {
         return mapOf(
-            "constituicao" to 2,
+            "destreza" to 1,
         )
     }
 }

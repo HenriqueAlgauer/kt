@@ -1,6 +1,6 @@
 package raca
 
-class Elfo : Raca(deslocamentoBase = 10, idiomaInicial = "Elfico") {
+class Halfling : Raca(deslocamentoBase = 10, idiomaInicial = "Halfing") {
     override fun calculaBonus(): Map<String, Int> {
         return mapOf(
             "destreza" to 2,

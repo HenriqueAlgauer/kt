@@ -1,4 +1,0 @@
-package raca
-
-class Halflings {
-}
