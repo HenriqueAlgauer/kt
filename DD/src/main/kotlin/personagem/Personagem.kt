@@ -158,12 +158,12 @@ open class Personagem(val nome: String , val raca: Raca) {
         val sabedoriaModificador = calcularModificador(sabedoria) + (bonusRacial["sabedoria"] ?: 0)
         val carismaModificador = calcularModificador(carisma) + (bonusRacial["carisma"] ?: 0)
 
-        println("Força: $forca + ( $forcaModificador)")
-        println("Destreza: $destreza +( $destrezaModificador)")
-        println("Constituição: $constituicao +( $constituicaoModificador)")
-        println("Inteligência: $inteligencia +( $inteligenciaModificador)")
-        println("Sabedoria: $sabedoria +( $sabedoriaModificador)")
-        println("Carisma: $carisma +( $carismaModificador)")
+        println("Força: $forca +($forcaModificador)")
+        println("Destreza: $destreza +($destrezaModificador)")
+        println("Constituição: $constituicao +($constituicaoModificador)")
+        println("Inteligência: $inteligencia +($inteligenciaModificador)")
+        println("Sabedoria: $sabedoria +($sabedoriaModificador)")
+        println("Carisma: $carisma +($carismaModificador)")
 
         println("Deslocamento Base: ${raca.deslocamentoBase}")
         println("Idioma Inicial: ${raca.idiomaInicial}")
