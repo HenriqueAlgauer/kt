@@ -17,7 +17,7 @@ open class Personagem(val nome: String , val raca: Raca) {
     private fun calcularVida(): Int {
         val constituicaoTotal = constituicao + (bonusRacial["constituição"] ?: 0)
         val constituicaoModificador = calcularModificador(constituicaoTotal)
-        return 10 + constituicaoModificador
+        return vida + constituicaoModificador
     }
 
     private fun calcularModificador(valorTotal: Int): Int {

@@ -18,6 +18,7 @@ fun main() {
         println("[13]. Halfling pés-leves || [14]. Halfling Robusto || [15]. Humano || [16]. Meio-elfo || [17]. Meio-orc || [18]. Tiefling")
 
         print("Digite o número correspondente à raça: ")
+
         val racaEscolha = scanner.nextInt()
 
         raca = when (racaEscolha) {
